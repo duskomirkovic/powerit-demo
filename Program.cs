@@ -23,7 +23,7 @@ namespace Demo
             StartNewThread(() => Demonstrate("Parallel division-based (Functional)", ParallelPrimeNumbers.Create));
             StartNewThread(() => Demonstrate("Exception eating", ExceptionThrowingGenerator.Create));
             
-            long exampleDirSize = GetFileLengthsWHash(@"C:\Workspace\PowerIT\ExampleFiles");
+            long exampleDirSize = GetFileLengthsWHash(@".\ExampleFiles");
             Console.WriteLine("\nExample directory size is {0} bytes.\n", exampleDirSize);
         }
 
