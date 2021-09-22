@@ -1,2 +1,4 @@
 # powerit-demo
-Demo project from PowerIT conference session about PerfView
+Ovde možete naći prezentaciju i demo projekat koji je korišćen na sesiji Swiss Army Knife for Performance Profiling u okviru PowerIT konferencije.
+
+Možete ga koristiti da isprobate osnovne funkcionalnosti PerfView-a.
